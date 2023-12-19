@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/Personal/FirstPerson/BP_FirstPersonProjectilePe.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/Personal/FirstPerson/BP_Pickup_RiflePE.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/Personal/FirstPerson/BP_Weapon_ComponentPE.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/Personal/FirstPerson/BP_FirstPersonCharacterPE.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/Personal/FirstPerson/BP_FirstPersonPlayerControllerPE.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/Personal/FirstPerson/BP_FirstPersonGameModePE.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/RN/55P1SMQLAF7OK6300D5I8N.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/9U/SWRWHUT0UFRTQAIEQKJNTC.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/RH/OBUZIHEUXGP449YT1WJ22W.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/P2/3UFW33JWDGPBR2Q6VNFC5L.uasset",
+				"D:/Data/Projects/Unreal/FPS_ESIG_ERAUD/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/VR/CRP1V0LKYI6KJR883GHID3.uasset"
+			]
+		}
+	]
+}
